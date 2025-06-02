@@ -1,4 +1,9 @@
-# 🛒 E-Commerce Platform
+
+
+
+
+           
+# <img src="https://res.cloudinary.com/dtzf4xhst/image/upload/v1748872543/zgqp47m8lp4jj4joxrjx.png" alt="Image Description" width="50" height="30" > E-Commerce Platform
 <br></br>
 This is a fully responsive e-commerce platform built with MongoDB, Express.js, React, and Node.js (MERN stack). The admin has full control over adding and managing products. Customers can browse items, add to cart, place orders, and track their order status.
 
